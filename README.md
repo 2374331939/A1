@@ -25,4 +25,19 @@
 
 └── data/ # 自动创建：SQLite 数据库文件
 
+仪表盘界面：
+<img width="1915" height="880" alt="image" src="https://github.com/user-attachments/assets/16812fa4-6adb-42fc-9c34-fa0f65beeb8b" />
 
+导入界面：
+<img width="1919" height="924" alt="image" src="https://github.com/user-attachments/assets/26668f0e-97d2-44df-bf09-539cf38af156" />
+
+标注界面：
+<img width="1395" height="600" alt="image" src="https://github.com/user-attachments/assets/d3326d49-ad72-47a4-9f03-8aa92f60c412" />
+
+数据分析界面：
+<img width="1525" height="830" alt="image" src="https://github.com/user-attachments/assets/7abcb6c5-67fd-402f-8e07-7d18e8e425ed" />
+
+数据导出界面：
+<img width="1503" height="655" alt="image" src="https://github.com/user-attachments/assets/92c397de-9530-47d6-bd14-042a0c252663" />
+
+更多功能正在开发中…………
